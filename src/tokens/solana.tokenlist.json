@@ -1,5 +1,5 @@
 {
-  "chainId": 102, // ID chain Solana (101 untuk mainnet-beta)
+  "chainId": 102, // ID chain Solana (102 untuk tesnet)
   "address": "hu2Fwavj8yScjj6CaAgdizka18Sf8uMFs4y7zP3Kuf3",
   "symbol": "SEME",
   "name": "SECURITY OF MEME",
